@@ -53,13 +53,14 @@ p {
 .work-example {
     margin: 3%;
     position: relative;
-    display: flex;
+    display: inline-flex;
 }
 
 .work-example p {
+    font-size: large;
     position: absolute;
     left: 15px;
-    bottom: 17px;
+    bottom: -30px;
     background: repeating-linear-gradient(
 45deg
 , black, transparent 100px);
