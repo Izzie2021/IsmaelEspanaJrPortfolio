@@ -32,4 +32,4 @@ To meet the acceptance criteria, I did the following:
 -  When I click previous work image it links to deployed application of previous work
 -  Made sure that when I resize the page or view the site will be viewed with a responsive layout on different screen size
 
-[Link to deployed application](empty)
+[Link to deployed application](https://izzie2021.github.io/IsmaelEspanaJrPortfolio/)
